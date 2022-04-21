@@ -1,6 +1,9 @@
 # plot-feasible-region
 
-\phi(x^1,\omega_1)=\text{Min } & -2 y_1 (\omega_1) -2 y_2(\omega_1) \\
+x^2
+
+
+\phi(x^\text{Min } & -2 y_1 (\omega_1) -2 y_2(\omega_1) \\
 \text{ s.t. } 
 & y_1(\omega_1) - y_2(\omega_1) \geq -0.6\\
 &  -y_1(\omega_1) - y_2(\omega_1) \geq -1.2 + 0.5x^1\\
