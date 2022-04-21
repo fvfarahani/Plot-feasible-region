@@ -1,6 +1,6 @@
 # plot-feasible-region
 
-x^2
+&x^2
 
 
 \phi(x^\text{Min } & -2 y_1 (\omega_1) -2 y_2(\omega_1) \\
