@@ -8,7 +8,7 @@ Scenario 1:
 
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}\begin{split}\phi(x^1,\omega_1)=\text{Min&space;}&space;&&space;-2&space;y_1&space;(\omega_1)&space;-2&space;y_2(\omega_1)&space;\\\text{&space;s.t.&space;}&space;&&space;y_1(\omega_1)&space;-&space;y_2(\omega_1)&space;\geq&space;-0.6\\&&space;&space;-y_1(\omega_1)&space;-&space;y_2(\omega_1)&space;\geq&space;-1.2&space;&plus;&space;0.5x^1\\&&space;&space;-y_1(\omega_1)&space;\geq&space;-1\\&&space;&space;-y_2(\omega_1)&space;\geq&space;-1\\&&space;y_1&space;(\omega_1),&space;y_2&space;(\omega_1)&space;\geq&space;0.\end{split}\end{align*}" title="https://latex.codecogs.com/svg.image?\begin{align*}\begin{split}\phi(x^1,\omega_1)=\text{Min } & -2 y_1 (\omega_1) -2 y_2(\omega_1) \\\text{ s.t. } & y_1(\omega_1) - y_2(\omega_1) \geq -0.6\\& -y_1(\omega_1) - y_2(\omega_1) \geq -1.2 + 0.5x^1\\& -y_1(\omega_1) \geq -1\\& -y_2(\omega_1) \geq -1\\& y_1 (\omega_1), y_2 (\omega_1) \geq 0.\end{split}\end{align*}" />
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/fvfarahani/plot-feasible-region/blob/main/s1.pdf?raw=true)
 
 Scenario 2:
 
