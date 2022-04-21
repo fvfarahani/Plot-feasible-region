@@ -1,8 +1,8 @@
 # plot-feasible-region
 
-Plotting feasible region for small linear optimization model. 
+Plotting feasible region for a linear optimization model. 
 
-Two scenarios where integer constraints have been relaxed for computational perspectives. After solving each scenario, Fenchel Decomposition (FD) cut is generated to cut off all non integer solution points from the feasible region. 
+Here, two scenarios where integer constraints have been relaxed for computational perspectives. After solving each scenario, Fenchel Decomposition (FD) cut is generated to cut off all non integer solution points from the feasible region. 
 
 Scenario 1:
 
