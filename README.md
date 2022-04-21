@@ -1,8 +1,7 @@
 # plot-feasible-region
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
 
 
 \phi(x^\text{Min } & -2 y_1 (\omega_1) -2 y_2(\omega_1) \\
